@@ -7,12 +7,13 @@ class Button extends StatelessWidget {
   final textcolor;
   final String buttontext;
   final onTap;
-  const Button(
-      {super.key,
-      this.color,
-      this.textcolor,
-      required this.buttontext,
-      this.onTap});
+  const Button({
+    super.key,
+    this.color,
+    this.textcolor,
+    required this.buttontext,
+    this.onTap,
+  });
 
   @override
   Widget build(BuildContext context) {
