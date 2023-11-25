@@ -14,31 +14,25 @@ To run this application on your local machine, make sure you have Flutter instal
 ## Prerequisites
  - Flutter SDK
  - Android Studio / Xcode (for iOS development)
- - Clone the repository
- - bash
- - Copy code
- - git clone https://github.com/shreeramkedlaya/calculator.git
- - cd calculator_app
- - Run the app
- - bash
- - Copy code
- - flutter run
+ 
 
 
 ## How to Use
+Clone the repository
+ - git clone https://github.com/shreeramkedlaya/calculator.git
+cd calculator_app
+Run the app
+ - flutter run
+ 
 1. Launch the app on your device or emulator. You will see a simple  calculator interface with numeric buttons and arithmetic operation buttons.
-
 2. Tap the numeric buttons to input numbers.
 3. Tap the arithmetic operation buttons to perform calculations.
 4. The result will be displayed at the top of the screen.
 
-
 ## Dependencies
-
 flutter: The core framework for building the Flutter app.
 
 ## Contributions
-
 Contributions are welcome! If you find any bugs or want to suggest new features, please create an issue or submit a pull request.
 
 ## Acknowledgments
