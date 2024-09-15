@@ -21,7 +21,7 @@ A sleek and minimalistic calculator app designed with a simple yet functional UI
 3. Launch the app on an emulator or connected device by running `flutter run`.
 
 ## Screenshots
-![screenshot](./screemshots/screenshot.png)
+![screenshot](./screenshots/screenshot.png)
 
 ## Future Enhancements
 - Additional mathematical functions.
