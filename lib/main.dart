@@ -113,7 +113,7 @@ class _HomePageState extends State<HomePage> {
                     return Button(
                       onTap: () {
                         setState(() {
-                          equalto();
+                          equalTo();
                         });
                       },
                       buttontext: buttons[index],
@@ -150,7 +150,7 @@ class _HomePageState extends State<HomePage> {
     return false;
   }
 
-  void equalto() {
+  void equalTo() {
     String fq = ques;
     fq = fq.replaceAll('x', '*');
 
